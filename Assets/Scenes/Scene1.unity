@@ -4320,8 +4320,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f304dc81332a6e3458ae67b61c75a682, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  senseX: 400
-  senseY: 400
+  senseX: 100
+  senseY: 100
   orientation: {fileID: 280456633}
 --- !u!81 &785505496
 AudioListener:
@@ -5708,7 +5708,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: a974e37f7e308b14fa7e7026bce9d354, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.48
+      value: -0.23
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: a974e37f7e308b14fa7e7026bce9d354, type: 3}
       propertyPath: m_LocalPosition.z
